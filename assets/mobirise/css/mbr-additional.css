@@ -1212,7 +1212,7 @@ a {
 .cid-t1W9vf7zLn {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #9e6bc9;
+  background-color: #e43f3f;
 }
 .cid-t1PvdsFLCN {
   padding-top: 0px;
@@ -1223,7 +1223,13 @@ a {
 .cid-t1WadRfeDv {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #9e6bc9;
+  background-color: #e43f3f;
+}
+.cid-t1WadRfeDv .mbr-section-title {
+  color: #6ec7f2;
+}
+.cid-t1WadRfeDv .mbr-section-subtitle {
+  text-align: left;
 }
 .cid-t1PvdsFLCN {
   padding-top: 0px;
