@@ -816,8 +816,8 @@ a {
   object-fit: cover;
 }
 .cid-t1MLkbBSJI {
-  padding-top: 3rem;
-  padding-bottom: 4rem;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-color: #f05050;
 }
 .cid-t1MLkbBSJI .mbr-iconfont {
@@ -828,7 +828,7 @@ a {
 }
 .cid-t1MLkbBSJI .card-wrapper {
   padding: 3rem;
-  background: #fafafa;
+  background: #f05050;
   border-radius: 4px;
 }
 @media (max-width: 992px) {
@@ -1212,7 +1212,7 @@ a {
 .cid-t1W9vf7zLn {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #ffe161;
+  background-color: #34c737;
 }
 .cid-t1PvdsFLCN {
   padding-top: 0px;
@@ -1223,13 +1223,14 @@ a {
 .cid-t1WadRfeDv {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #ffe161;
+  background-color: #34c737;
 }
 .cid-t1WadRfeDv .mbr-section-title {
   color: #e43f3f;
 }
 .cid-t1WadRfeDv .mbr-section-subtitle {
   text-align: left;
+  color: #000000;
 }
 .cid-t1PvdsFLCN {
   padding-top: 0px;
