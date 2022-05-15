@@ -850,6 +850,22 @@ a {
 .cid-t1MNqGgMBK {
   background-image: url("../../../assets/images/savio-183x275.jpg");
 }
+.cid-t5NqUAOnun {
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-t5NqUAOnun .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-t5NqUAOnun img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-t5NqUAOnun .text-wrapper {
+    padding: 2rem;
+  }
+}
 .cid-t1Pw16B5yK {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -1212,7 +1228,7 @@ a {
 .cid-t1W9vf7zLn {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #34c737;
+  background-color: #fafafa;
 }
 .cid-t1PvdsFLCN {
   padding-top: 0px;
@@ -1223,7 +1239,7 @@ a {
 .cid-t1WadRfeDv {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #34c737;
+  background-color: #fafafa;
 }
 .cid-t1WadRfeDv .mbr-section-title {
   color: #e43f3f;
